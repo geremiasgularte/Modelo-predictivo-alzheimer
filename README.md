@@ -1,4 +1,5 @@
 🧠 Predicción de Alzheimer con Machine Learning
+
 📌 Descripción del proyecto
 
 Este proyecto tiene como objetivo analizar factores asociados a la enfermedad de Alzheimer y desarrollar un modelo de Machine Learning capaz de predecir su diagnóstico a partir de datos clínicos.
