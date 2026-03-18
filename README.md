@@ -56,13 +56,13 @@ Incluye:
 
 🔄 Pipeline del proyecto
 
-1.Carga y limpieza de datos
+1. Carga y limpieza de datos
 
 -Revisión de valores nulos
 
 -Preparación de variables
 
-2.Análisis exploratorio (EDA)
+2. Análisis exploratorio (EDA)
 
 -Distribución de variables
 
@@ -70,19 +70,19 @@ Incluye:
 
 -Correlaciones
 
-3.Preprocesamiento
+3. Preprocesamiento
 
 -Selección de variables relevantes
 
 -División en train/test
 
-4.Modelado
+4. Modelado
 
 -Entrenamiento de modelos de clasificación
 
 -Evaluación con métricas
 
-5.Evaluación
+5. Evaluación
 
 -Accuracy
 
@@ -100,7 +100,7 @@ Incluye:
 
 📈 Resultados
 
-    Precisión Recall F1-score
+   Precisión Recall F1-score
 0   0.95      0.97   0.96
 1   0.94      0.91   0.93
 
