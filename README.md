@@ -100,17 +100,11 @@ Incluye:
 
 📈 Resultados
 
-Precision  
--0: 0.95         
--1: 0.94 
+Precision  -0: 0.95 -1: 0.94 
 
-Recall
--0: 0.97
--1: 0.91 
+Recall -0: 0.97 -1: 0.91 
 
-F1-score
--0: 0.96
--1: 0.93
+F1-score -0: 0.96 -1: 0.93
 
 Accuracy: 0.95    
 AUC: 0.94
