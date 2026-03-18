@@ -131,13 +131,7 @@ pip install -r requirements.txt
 
 Ejecutar el notebook:
 
-jupyter notebook
-📂 Estructura del proyecto
-├── Dataset_Alzheimer.xlsx
-├── Analisis_Alzheimer.ipynb
-├── Explicacion.ipynb
-├── README.md
-└── requirements.txt
+Análisis_Alzheimer.ipynb
 
 💡 Mejoras futuras
 
